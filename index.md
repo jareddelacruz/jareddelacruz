@@ -4,7 +4,7 @@ This is my home page! My name is Jared De La Cruz and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/jareddelacruz/jareddelacruz.github.io 
+My GitHub page is https://github.com/jareddelacruz/jareddelacruz.git
 
 ### CPSC 120
 
