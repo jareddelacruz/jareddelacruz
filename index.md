@@ -8,21 +8,21 @@ My GitHub page is https://github.com/jareddelacruz/jareddelacruz.git
 
 ### CPSC 120
 
-* Lab 10
+* [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-jared-arian)
 
     My personal all-time favorite lab was Lab 10 part 1 and 2. 
     Lab 10 was my favorite because it was the perfect mix of challenging 
     and simple. I was able to write code that I had recently learned
     from the lectures and use my knowledge effectively.
 
-* Lab 2
+* [Lab 2](https://github.com/cpsc-fall-2023/cpsc-120-lab-02-sofia-jared/tree/main/part-1)
     
     Lab 2 part 1 is another favorite of mine because it was a great introduction
     into coding. At the time it was a little difficult, but looking back,
     Lab 2 was extremely simple. I was able to create a math equation in code
     for the first time.
 
-* Lab 5
+* [Lab 5](https://github.com/cpsc-fall-2023/cpsc-120-lab-05-jose-jared/tree/main/part-1)
     
     One last favorite lab of mine is Lab 5 part 1! It's one my personal favorites
     because it was one of the first labs that introduced user inputs and user 
